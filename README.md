@@ -1,6 +1,7 @@
 # Submission for "2020 - John Hunter Excellence in Plotting contest"
 
 1. **Research Question:**
+
     How does the number of Religious Congregations vary with the GDP generated from Science & Tech Industry across US states?
 
 2. Data Sources:
